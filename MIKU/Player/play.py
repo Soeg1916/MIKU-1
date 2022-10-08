@@ -28,6 +28,7 @@ import yt_dlp
 import yt_dlp
 
 MIKU_IMGS = [
+    "Process/ImageFont/vxn(2).png",
     "Process/ImageFont/Red.png",
     "Process/ImageFont/Black.png",
     "Process/ImageFont/Blue.png",
