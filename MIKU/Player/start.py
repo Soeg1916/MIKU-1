@@ -212,11 +212,11 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Miku_updates"),
+                InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/soegpay"),
             ],
             [
                 InlineKeyboardButton(" 【V๏ɪ፝֟𝔡】◈Network◈", url="https://t.me/VoidxNetwork"),
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/Mr_nack_nack"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/soeg1916"),
             ],
             [
                 InlineKeyboardButton(" ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
