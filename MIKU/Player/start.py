@@ -91,7 +91,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Miku_updates"),
+                InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/soegpay"),
             ],
             [
                 InlineKeyboardButton(" 【V๏ɪ፝֟𝔡】◈Network◈", url="https://t.me/VoidxNetwork"),
