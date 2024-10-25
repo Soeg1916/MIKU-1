@@ -6,7 +6,7 @@
 <p align="center">
     
 
-[ᴏᴡɴᴇʀ](https://t.me/Mr_nack_nack)
+[ᴏᴡɴᴇʀ](https://t.me/Soeg1916)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ 
